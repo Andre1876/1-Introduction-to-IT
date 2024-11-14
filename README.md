@@ -382,6 +382,8 @@ Network security is the practice of protecting a computer network from unauthori
 
 IPv4 (Internet Protocol version 4) is the most commonly used protocol for routing and addressing packets of data on the internet. IPv4 addresses are written as four sets of numbers separated by dots, each set ranging from 0 to 255.
 
+<img src="https://cf.ppt-online.org/files/slide/j/jZyzFBGilM0LhRTb5fYw3r8JmCseDu9oSWXdta/slide-6.jpg" alt="IPv4 Addressing Diagram" />
+
 <details>
   <summary>Overview of IPv4</summary>
 
