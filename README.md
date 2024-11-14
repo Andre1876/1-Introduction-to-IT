@@ -26,6 +26,8 @@ Each topic includes relevant exercises to reinforce learning.
 
 Hardware refers to the physical parts of a computer system—these are the parts you can touch and interact with. Unlike software, which consists of programs and operating systems that run on a computer, hardware includes tangible components such as the computer case, monitor, keyboard, and mouse. These parts work together to perform tasks, process data, and enable interaction with the digital world.
 
+<img src="https://i.ytimg.com/vi/YWoesdg6YNw/maxresdefault.jpg" alt="Computer Hardware Components" />
+
 <details>
   <summary>Overview of Hardware</summary>
 
