@@ -656,7 +656,7 @@ Ransomware is a type of malicious software that encrypts a victim's data and dem
 
 Cloud computing refers to the delivery of computing services such as servers, storage, databases, networking, and software over the internet, or "the cloud."
 
-<-- # Information-Technology
+<!-- # Information-Technology
 
 Project overview and directory structure.
 
