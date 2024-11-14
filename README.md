@@ -90,6 +90,8 @@ Computer components are the individual parts that make up a computer system, wor
 
 An Operating System (OS) is the fundamental software that manages computer hardware and software resources. It acts as an intermediary between users and the computer hardware, making it easier to execute programs and perform various tasks on a computer. Without an OS, the hardware would be unusable.
 
+<img src="https://www.remoterocketship.com/images/blog/Operating%20Systems-icon-for-blog.jpg" alt="Operating Systems Image" />
+
 <details>
   <summary>Overview of Operating Systems</summary>
 
