@@ -197,6 +197,7 @@ Software development refers to the process of designing, creating, testing, and 
 
 Networking refers to the process of connecting computers and other devices together to share resources such as data, files, or internet connections. It allows devices to communicate with each other, exchange information, and access shared resources over a network.
 
+<img src="https://i.ytimg.com/vi/DbLdBDjI2Sk/maxresdefault.jpg" alt="Networking in Computers Diagram" />
 <details>
   <summary>Overview of Networking</summary>
 
